@@ -15,7 +15,7 @@ LONG_DESCRIPTION = 'With This Package Can You Find Out Get Info Any Token Telegr
 setup(
     name="infobot",
     version=VERSION,
-    author="amo",
+    author="Muamel Ameer",
     author_email="amowallet@gmail.com",
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
@@ -31,7 +31,7 @@ setup(
         "Operating System :: MacOS :: MacOS X",
         "Operating System :: Microsoft :: Windows",
     ],
-    url='https://github.com/TeaByte/inboxkitten/',
+    url='https://github.com/muamelAmeer/infobot/',
     project_urls={
         'Source': 'https://github.com/muamelAmeer/infobot',
         'Dev Lib': 'https://github.com/muamelAmeer',
