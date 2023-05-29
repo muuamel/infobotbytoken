@@ -33,8 +33,8 @@ setup(
     ],
     url='https://github.com/TeaByte/inboxkitten/',
     project_urls={
-        'Source': 'https://github.com/TeaByte/inboxkitten/',
-        'Bug Reports': 'https://github.com/TeaByte/inboxkitten/issues',
-        'Documentation': 'https://github.com/TeaByte/inboxkitten/'
+        'Source': 'https://github.com/muamelAmeer/infobot',
+        'Dev Lib': 'https://github.com/muamelAmeer',
+        'Documentation': 'https://github.com/muamelAmeer/infobot'
     },
 )
